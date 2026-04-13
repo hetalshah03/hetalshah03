@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @hetalshah03
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning various cryptographic algorithms
-- 💞️ I’m looking to collaborate on projects related to cybersecurity domain
 - 📫 How to reach me hetalshah9817@gmail.com
 
 <!---
